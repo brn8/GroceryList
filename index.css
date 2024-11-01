@@ -1,0 +1,44 @@
+#pantry-items {
+  margin-left: 50px;
+  display: flex;
+}
+#canned {
+  background-color: lightgray;
+  padding: 5px;
+  width: 180px;
+  height: 150px;
+}
+#drygoods {
+  background-color: lightgray;
+  padding: 5px;
+  width: 180px;
+  margin: 20px;
+  height: 150px;
+  margin-top: 0%;
+}
+#freezeritems {
+  margin-left: 50px;
+  display: flex;
+}
+
+#veggies {
+  background-color: lightgray;
+  padding: 5px;
+  width: 180px;
+  height: 150px;
+}
+
+#snacks {
+  background-color: lightgray;
+  padding: 5px;
+  width: 180px;
+  height: 150px;
+  margin-left: 20px;
+}
+
+h2 {
+  color: cornflowerblue;
+}
+h3 {
+  color: rgb(189, 107, 163);
+}
